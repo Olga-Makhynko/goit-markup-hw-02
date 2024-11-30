@@ -32,8 +32,15 @@ color: #4d5ae5;
 }
 
 .logo-style {
-    color: #2e2f42;  
+    font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2e2f42; 
 }
+
 .nav-list {}
 .nav-item {}
 .nav-item-link {
@@ -82,12 +89,18 @@ background-color: #4d5ae5;
 }
 /* #endregion */
 /* #region footer */
-.footer-logo {
+.logo {
     width: 115px;
 height: 24px;
 color: #4d5ae5; 
 }
 .logo-style {
-    color: #f4f4fd;
+ font-family: "Raleway", sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 1.16667;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ color: #f4f4fd;  
 } 
 /* #endregion*/
