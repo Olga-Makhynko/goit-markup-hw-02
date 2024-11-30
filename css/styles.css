@@ -89,17 +89,49 @@ color: #2e2f42;
     font-size: 56px;
     line-height: 1.1;
 }
-.hero {
+.section-main {
     background-color: #2e2f42;    
 }
-.hero-title {
+.main-title {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.1;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff; 
 }
+
+.info-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.text-title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455; 
+}
+.name-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42; 
+}
+.prof-name-title {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455; 
+}
+ 
 .hero-btn {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
