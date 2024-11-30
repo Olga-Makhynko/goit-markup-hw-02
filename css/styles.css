@@ -1,5 +1,5 @@
 body {
-    font-family: "Raleway", "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 a {
@@ -58,7 +58,6 @@ color: #2e2f42;
 /* #endregion */
 /* #region Hero */
 .title {
-    font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
 
@@ -94,7 +93,7 @@ background-color: #4d5ae5;
 height: 24px;
 color: #4d5ae5; 
 }
-.logo-style {
+.logo-style-footer {
  font-family: "Raleway", sans-serif;
  font-weight: 700;
  font-size: 18px;
