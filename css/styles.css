@@ -48,17 +48,13 @@ button {
   color: #404bbf;
 }
 
-.address-list {
+.address-link {
   font-style: normal;
   font-weight: 400;
   color: #434455;
   text-decoration: none;
 }
-.adress-list:hover,
-.adress-list:focus {
-  color: #404bbf;
-}
-.address-link {
+.address-list {
   font-style: normal;
   font-weight: 400;
   color: #434455;
