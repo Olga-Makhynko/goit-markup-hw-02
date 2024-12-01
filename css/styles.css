@@ -64,9 +64,9 @@ color: #4d5ae5;
     color: #434455;
     text-decoration: none;
 }
-.adress-link:hover
+.adress-link:hover,
 .adress-link:focus {
- color: #404bbf
+ color: #404bbf;
 }
 
 .nav-item {}
@@ -115,6 +115,18 @@ color: #2e2f42;
     letter-spacing: 0.02em;
     color: #434455; 
 }
+.section-team {
+    background-color: #F4F4FD; 
+    font-size: 36px; 
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.team-list {
+    background-color: #FFFFFF;
+}
 .name-title {
     font-weight: 500;
     font-size: 20px;
@@ -131,7 +143,18 @@ color: #2e2f42;
     text-align: center;
     color: #434455; 
 }
-.content-card {
+.our-portfolio {
+    background-color: #F4F4FD; 
+}
+.section-portfolio {
+    font-size: 36px; 
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize ;
+    color:  #2e2f42;
+}
+.content-card-list {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
