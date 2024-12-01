@@ -54,12 +54,7 @@ button {
   color: #434455;
   text-decoration: none;
 }
-.address-list {
-  font-style: normal;
-  font-weight: 400;
-  color: #434455;
-  text-decoration: none;
-}
+
 .adress-link:hover,
 .adress-link:focus {
   color: #404bbf;
