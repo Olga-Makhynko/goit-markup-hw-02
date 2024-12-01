@@ -64,6 +64,10 @@ button {
 .adress-link:focus {
   color: #404bbf;
 }
+.adress-link:hover,
+.adress-link:focus {
+  color: #404bbf;
+}
 
 .nav-item-link {
   font-weight: 500;
