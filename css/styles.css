@@ -52,10 +52,6 @@ color: #4d5ae5;
     font-style: normal;
     color: #404bbf;
 }
-.address-header:hover,
-.address-header:focus {
-    color: #404bbf;  
-}
 
 .address-list {
     font-style: normal;
