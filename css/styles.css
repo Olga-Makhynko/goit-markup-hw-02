@@ -60,8 +60,8 @@ button {
   color: #434455;
   text-decoration: none;
 }
-.adress-link:hover,
-.adress-link:focus {
+.adress-list:hover,
+.adress-list:focus {
   color: #404bbf;
 }
 .adress-link:hover,
